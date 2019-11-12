@@ -1,5 +1,5 @@
 # MeisterKoch Website
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![HitCount](http://hits.dwyl.io/sayederfanarefin/MeisterKochWebsite.svg)](http://hits.dwyl.io/sayederfanarefin/MeisterKochWebsite)
 
 This website is for the Meisterkoch app. It is made using bootstrap and is live [here](https://sayederfanarefin.github.io/MeisterKochWebsite/) on github pages to have a look.
 
